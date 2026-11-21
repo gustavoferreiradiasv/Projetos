@@ -1,0 +1,2 @@
+# Dependência apenas para rodar os testes (não é necessária para usar o script)
+pytest>=7.0.0
