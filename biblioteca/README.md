@@ -11,4 +11,3 @@ Sistema de gerenciamento de biblioteca via terminal em Python, com persistência
 ## Como executar
 ```bash
 python biblioteca.py
-Python 3.10 ou superior (utiliza apenas a biblioteca padrão).
