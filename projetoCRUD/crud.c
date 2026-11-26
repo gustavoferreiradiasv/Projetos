@@ -1,16 +1,3 @@
-/*
- * CRUD de clientes em C + MySQL (terminal) - versao para Dev-C++ (Windows)
- *
- * Salve como .c (Arquivo > Novo > Arquivo Fonte e salve como crud.c)
- * para o Dev-C++ compilar como C.
- *
- * Configuracao do projeto no Dev-C++ (veja o passo a passo na resposta):
- *   - Include:  <pasta do Connector/C>\include
- *   - Lib:      <pasta do Connector/C>\lib
- *   - Linker:   libmysql.lib  (ou -lmysql)
- *   - Copiar libmysql.dll para a pasta do executavel
- */
-
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
