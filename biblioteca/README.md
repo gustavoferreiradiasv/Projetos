@@ -11,15 +11,4 @@ Sistema de gerenciamento de biblioteca via terminal em Python, com persistência
 ## Como executar
 ```bash
 python biblioteca.py
-
----
-
-### 3. `.gitignore` sugerido (`biblioteca/.gitignore`)
-
-```gitignore
-biblioteca.json
-biblioteca.json.tmp
-biblioteca.json.corrompido
-livros_exportados.csv
-__pycache__/
-*.py[cod]
+Python 3.10 ou superior (utiliza apenas a biblioteca padrão).
